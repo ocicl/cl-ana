@@ -1,0 +1,9 @@
+* cl-ana
+
+Free (GPL) Common Lisp data analysis library with emphasis on modularity and conceptual clarity.
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/ghollisjr/cl-ana.git |
+| commit  | 88abde5                                     |
+| systems | cl-ana                                      |
+|---------+---------------------------------------------|
